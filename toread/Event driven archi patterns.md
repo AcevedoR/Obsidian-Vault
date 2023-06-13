@@ -1,0 +1,1 @@
+https://serverlessland.com/event-driven-architecture/visuals

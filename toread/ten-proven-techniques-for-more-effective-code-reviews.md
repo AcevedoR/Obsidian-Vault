@@ -1,0 +1,1 @@
+https://www.dainemawer.com/articles/ten-proven-techniques-for-more-effective-code-reviews
